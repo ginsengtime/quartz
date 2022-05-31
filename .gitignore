@@ -3,5 +3,6 @@ public
 resources
 .idea
 content/.obsidian
+content/.obsidian-git-data
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json

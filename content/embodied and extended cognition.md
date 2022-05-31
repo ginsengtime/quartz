@@ -6,16 +6,15 @@ title: "embodied and extended cognition"
   - Embodied cognition  
     cognitive processes taking place in the body but outside the brain. Example: octopus arms have their own neurons
 
-the body codes the workings of the mind ([[deprivileging the mind/intellect]])
+the body codes the workings of the mind 
 
-> \[The mind is\] not a kind of software being run on the logical-processesing unit of the brain.
+> [The mind is] not a kind of software being run on the logical-processesing unit of the brain.
 
 The body and mind are inseparable. We distinguish between them, but the reality is they are one and the same.
 
   - Extended cognition  
-    cognitive processes taking place through external apparati. Example: [[spiderwebs]] taking in/storing information through vibrations. (technology??)
+    cognitive processes taking place through external apparati. Example: [[spiderwebs as extended cognition|spiderwebs]] taking in/storing information through vibrations. (technology??)
 
-<!-- end list -->
 
   - the spiderwebs piece reminds me of the Adrian Tchaikovsky novel, *Children of Time*, which includes an advanced race of spiders who communicate, think, and do basically everything with their webs. Guess that's where he got it from\!
   - is language an instance of extended cognition, or is it only a tool we use to extend our cognition?

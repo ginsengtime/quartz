@@ -1,4 +1,0 @@
----
-title: "'Uthman bin 'Affan"
----
-

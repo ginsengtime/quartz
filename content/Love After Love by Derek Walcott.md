@@ -1,7 +1,5 @@
 ---
 title: "Love After Love by Derek Walcott"
----
----
 tag: poem
 ---
 

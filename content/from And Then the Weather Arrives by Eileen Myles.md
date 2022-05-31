@@ -1,7 +1,5 @@
 ---
 title: "from And Then the Weather Arrives by Eileen Myles"
----
----
 tag: poem
 ---
 

@@ -15,5 +15,5 @@ url: >-
 
 
 ## Highlights
--  “Music and silence combine strongly because music is done with silence, and silence is full of music. ” ― Marcel Marceau — [Updated on 2022-01-04 10:53:44](https://hyp.is/-YQVem0AEeynfLvHq7HIVA/www.goodreads.com/quotes/31682-music-and-silence-combine-strongly-because-music-is-done-with)  — Group: #Public
+-  “Music and silence combine strongly because music is done with silence, and silence is full of music. ” ― Marcel Marceau — [Updated on 2022-01-04 10:53:44](https://hyp.is/-YQVem0AEeynfLvHq7HIVA/www.goodreads.com/quotes/31682-music-and-silence-combine-strongly-because-music-is-done-with)  — 
    - Tags: #quotes 

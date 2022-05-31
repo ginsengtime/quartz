@@ -16,5 +16,5 @@ url: >-
 
 
 ## Highlights
-- dromological violence — [Updated on 2020-12-22 11:52:05](https://hyp.is/rQDNskQAEeucC6-v4FlAZg/www.e-flux.com/journal/109/331193/the-code-of-touch-navigating-beyond-control-or-towards-scalability-and-sociability/)  — Group: #Public
+- dromological violence — [Updated on 2020-12-22 11:52:05](https://hyp.is/rQDNskQAEeucC6-v4FlAZg/www.e-flux.com/journal/109/331193/the-code-of-touch-navigating-beyond-control-or-towards-scalability-and-sociability/)  — 
 

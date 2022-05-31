@@ -1,7 +1,5 @@
 ---
 title: "Invitation by Mary Oliver"
----
----
 tag: poem
 ---
 

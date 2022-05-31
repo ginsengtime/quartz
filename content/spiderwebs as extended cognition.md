@@ -3,7 +3,7 @@ title: "spiderwebs as extended cognition"
 ---
 # Case study: spiderwebs as extended cognition apparati
 
-HOT TAKE: spiderwebs are an instance of [[extended cognition]]. ie webs are cognitive apparati that serve as sensory organs, of a sort, for the spider.
+HOT TAKE: spiderwebs are an instance of [[embodied and extended cognition|extended cognition]]. ie webs are cognitive apparati that serve as sensory organs, of a sort, for the spider.
 
   - Animal cognition strategies
       - embodied (octopus)
@@ -18,8 +18,6 @@ According to Japyassú, cognition = acquiring, manipulating, and storing info. C
 
   - Niche construction  
     animals making specialized structures like nests, dams etc.
-
-<!-- end list -->
 
   - interplay with structure and environment ultimately causes changes in the organism, thereby changing the structure.... (extended phenotype)
 

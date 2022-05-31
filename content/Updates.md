@@ -3,7 +3,7 @@ title: "Updates"
 ---
 **2022.05.26**
 
-Added [[ISLAM101x L2: The Rashidun & Umayyad]], [[Rashidun]], and [[Umayyad caliphate]] pages. Also I started ANOTHER class, this one on architecture, so I guess I'll have even MORE notes to type up every day hooraaaaay
+Added [[ISLAM101x L2: The Rashidun & Umayyad]], [[Arab-Islamic History/Rashidun]], and [[Arab-Islamic History/Umayyad caliphate]] pages. Also I started ANOTHER class, this one on architecture, so I guess I'll have even MORE notes to type up every day hooraaaaay
 
 **2022.05.23**
 

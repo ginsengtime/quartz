@@ -25,7 +25,7 @@ Um I'm a bit suspicious of this bit. I think the web as conversation is a perfec
 
 > The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another. (bernstein)
 
-did someone say "[[web as space]]?"
+did someone say "[[Spatial Tech|web as space]]?"
 
 > It’s not that you are passive in the Stream. You can be active. But your
 > actions in there ... exist in a context that is collapsed down to a
@@ -36,10 +36,19 @@ did someone say "[[web as space]]?"
 resist
 all u want but Stream-modeled experiences (twitter,fb,most social
 media) is going to sweep you away. shit's a temporal rather than spatial
-experience (relate to native/indigenous conceptions of place vs time)
+experience (relate to native/indigenous conceptions of place vs time[^1])
 
   - READ: Vannevar Bush "As We May Think" (1945)
   - Memex = commonplace book lowkey. collating copies of annotatable info
     relevant to your own interests and studies + your own notes? that's
     literally a commonplace aid bye
   - losing my mind suddenly realizing these folks are all just chasing commonplace books \*wheeze\*
+
+# [“Of Digital Streams, Campfires and Gardens”](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
+**Streams:** "fast twitch information discovery" Twitter etc. Cool connections, but growth is only an undercurrent
+
+**Campfires:** "slower burn but fade relatively quickly over... years." Blogs and other spaces where you form connections, think, relate concepts
+
+**Gardens:** wikis — somewhere you can curate and enjoy not simply for what it is, but for the myriad connections you form every time you walk through and see it from new angles (tech as space??? girl!)
+
+[^1]: as read in, among other sources, *As Long As Grass Grows* by Dina Gilio-Whitaker
